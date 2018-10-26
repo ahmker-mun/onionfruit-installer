@@ -4,6 +4,5 @@
              xmlns:local="clr-namespace:OnionFruitInstaller" xmlns:system="clr-namespace:System;assembly=mscorlib"
              >
     <Application.Resources>
-        <system:String x:Key="Telerik.Windows.Controls.Key">OnionFruitConnect</system:String>
     </Application.Resources>
 </Application>
